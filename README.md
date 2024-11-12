@@ -34,7 +34,7 @@ This project is a work in progress: star it, create issues, features or pull req
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/chrishubert/whatsapp-api.git
+git clone https://github.com/mohammadrezahaghi/Whatsapp-web.js
 cd whatsapp-api
 ```
 
@@ -174,5 +174,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=chrishubert/whatsapp-api&type=Date)](https://star-history.com/#chrishubert/whatsapp-api&Date)
-#   W h a t s a p p - w e b . j s  
+#   W h a t s a p p - w e b . j s 
+ 
  
